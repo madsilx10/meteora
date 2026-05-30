@@ -1,0 +1,13 @@
+{
+  "name": "meteora-monitor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@meteora-ag/dlmm": "^1.7.2",
+    "@solana/web3.js": "^1.95.3",
+    "node-fetch": "^2.7.0"
+  }
+}
